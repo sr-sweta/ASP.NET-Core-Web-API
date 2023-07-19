@@ -3503,11 +3503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codes\\C#\\NZWalks.API\\NZWalks.API.csproj",
+      "projectUniqueName": "E:\\Codes\\C#\\ASP.NET Web API\\NZWalks.API\\NZWalks.API.csproj",
       "projectName": "NZWalks.API",
-      "projectPath": "E:\\Codes\\C#\\NZWalks.API\\NZWalks.API.csproj",
+      "projectPath": "E:\\Codes\\C#\\ASP.NET Web API\\NZWalks.API\\NZWalks.API.csproj",
       "packagesPath": "C:\\Users\\GYAN\\.nuget\\packages\\",
-      "outputPath": "E:\\Codes\\C#\\NZWalks.API\\obj\\",
+      "outputPath": "E:\\Codes\\C#\\ASP.NET Web API\\NZWalks.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GYAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
